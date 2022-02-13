@@ -1,0 +1,11 @@
+Step 1 : Start
+Srep 2: Initalize num,  i=2 
+Step 3: If (num%2==0)
+Step 4:     Print "Not Prime"
+Step 5: Else
+Step 6:      i=i+1
+Step 7:      If (i<=num-1)
+Step 8:         goto 3
+step 9:    Else
+step 10:         Print "prime"
+Step 11: Stop
